@@ -50,6 +50,15 @@
                         &none     &none      &none           &kp MAC_DW &kp HYPR   &none
                         >;
                 };
+                symbol_layer {
+                        label = "SYMB";
+                        bindings = <
+   &kp EXCL  &kp AT    &kp HASH &kp DLLR &kp PRCNT      &kp CARET &kp AMPS  &kp ASTRK &kp LT    &kp GT   
+   &kp GRAVE &kp TILDE &kp LPAR &kp RPAR &none          &kp PIPE  &kp MINUS &kp EQUAL &kp COLON &kp SLASH
+   &kp LBKT  &kp RBKT  &kp LBRC &kp RBRC &none          &kp BSLH  &kp UNDER &kp PLUS  &none     &none
+                        &none   &none    &none          &none     &none     &none
+                        >;
+                };
 // -----------------------------------------------------------------------------------------
 // |  TAB |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | BKSP |
 // | CTRL |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  '   |
