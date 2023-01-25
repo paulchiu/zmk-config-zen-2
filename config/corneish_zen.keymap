@@ -84,7 +84,7 @@
                 navigation_layer {
                         label = "NAVI";
                         bindings = <
-   &kp TAB   &kp MAC_XW &kp PG_UP &kp LC(R)  &none           &none      &kp CAPS   &none    &kp DEL   &kp BSPC
+   &kp TAB   &kp MAC_XW &kp PG_UP &kp LC(R)  &caps_word      &none      &kp CAPS   &none    &kp DEL   &kp BSPC
    &kp LG(Z) &kp MAC_SP &kp PG_DN &kp MAC_PD &kp MAC_ND      &kp LEFT   &kp DOWN   &kp UP   &kp RIGHT &kp RET
    &kp LCTRL &kp LALT   &kp LGUI  &kp LSHFT  &kp LC(B)       &kp MAC_PW &kp MAC_NW &kp RGUI &kp RALT  &kp RCTRL
                         &none     &none      &none           &kp MAC_DW &kp HYPR   &none
